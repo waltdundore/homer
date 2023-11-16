@@ -79,7 +79,7 @@ services:
         url: "https://app.plex.tv/desktop/#!/"
         target: "_blank" # optional html a tag target attribute
       - name: "Whoogle"
-        logo: "assets/tools/sample2.png"
+        logo: "assets/tools/whoogle.png"
         subtitle: "Another application"
         tag: "app"
         url: "http://localhost:5000/home"
