@@ -82,7 +82,7 @@ services:
         logo: "assets/tools/whoogle.png"
         subtitle: "Another application"
         tag: "app"
-        url: "http://localhost:5000/home"
+        url: "http://nuc.dundore.net:5000/home"
       - name: "Whoogle"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"
